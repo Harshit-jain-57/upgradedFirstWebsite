@@ -6,7 +6,7 @@ const Portfolio = () => {
     <div className="portfolio-container">
       <header className="header">
         <h1>John Doe</h1>
-        <p>Creative Developer & Designer</p>
+        <p>Creative Developer & Designer(Hover Around)</p>
       </header>
 
       <div className="hero-section">

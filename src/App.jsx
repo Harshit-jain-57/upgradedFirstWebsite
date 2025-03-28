@@ -1,7 +1,11 @@
 import Portfolio from "./Portfolio"
+import SplashCursor from './SplashCursor'
+
 
 function App() {
-  return (<Portfolio/>)
+  return (<>
+    <SplashCursor />
+  <Portfolio/></>)
 }
 
 export default App
